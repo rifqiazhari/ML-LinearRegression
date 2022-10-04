@@ -5,9 +5,11 @@
 &emsp;&emsp;`size=c(1.4,2.6,1.0,3.7,5.5,3.2,3.0,4.9,6.3)`<br/>
 `)`<br/>
 <br/>
+
 - Plot to see the relationship between size and weight<br/>
 `plot(mouse.data$weight, mouse.data$size)`<br/>
 <br/>
+
 - We want to predict size by weight, so we pull up the linear model function<br/>
 `mouse.regression <- lm(size ~ weight, data=mouse.data)`<br/>
 `summary(mouse.regression)`<br/>
