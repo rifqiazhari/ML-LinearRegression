@@ -18,10 +18,8 @@
 ![alt text](Picture3.png)
 
 - Then we plot the regression line<br/>
-![alt text](57f5e046-02bf-4fac-84d1-b1893ab289e4.png)
-
-- Then we plot the regression line<br/>
-![alt text](57f5e046-02bf-4fac-84d1-b1893ab289e4.png)
+`abline(mouse.regression, col="red", lwd=2)`<br/>
+![alt text](0008e1af-1fda-4835-9b9f-fd58e732742b.png)
 
 # Multiple Linear Regression
 - Create the table with three variables<br/>
