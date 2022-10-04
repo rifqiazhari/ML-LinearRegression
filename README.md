@@ -39,4 +39,6 @@ We can see the correlation between size(y) and tail(x2)<br/>
 We can see the correlation between weight(x1) and tail(x2)<br/>
 
 - We want to predict size using weight and tail<br/>
+![alt text](Picture5.png)
+
 
